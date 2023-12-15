@@ -16,7 +16,7 @@ Welcome to my Advent of Code (AoC) repository! This tree will grow each year wit
         /               \
        /_/_/_/_/_/_/_/_/_\
       /                   \
-     /_/<a href="link-to-aoc23-repo" title="AoC 2023" style="color:white; background-color:#cc231e; border-radius:50%; padding:5px">23</a>/_/_/_/_/_/_/_/_/\
+     /_/<a href="https://github.com/emiliarojo/advent-of-code/tree/main/2023" title="AoC 2023" style="color:white; background-color:#cc231e; border-radius:50%; padding:5px">23</a>/_/_/_/_/_/_/_/_/\
     /                       \
    /_/_/_/_/_/_/_/_/_/_/_/_/_\
   /                           \
@@ -27,7 +27,7 @@ Welcome to my Advent of Code (AoC) repository! This tree will grow each year wit
 
 ### Ornaments
 
-- [AoC 2023](link-to-aoc23-repo) - Represented on the tree as `23`
+- [AoC 2023](https://github.com/emiliarojo/advent-of-code/tree/main/2023) - Represented on the tree as `23`
 
 *(More ornaments will be added each year!)*
 
