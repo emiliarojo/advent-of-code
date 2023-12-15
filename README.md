@@ -5,7 +5,7 @@ Welcome to my Advent of Code (AoC) repository! This tree will grow each year wit
 ## 🎄 AoC Christmas Tree 🎄
 
 <pre style="color: #34a65f">
-               ⭐️
+                *
                /_\
               /   \
              /_/_/_\
