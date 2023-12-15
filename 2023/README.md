@@ -1,3 +1,3 @@
 ## Advent of Code 2023
 
-Solutions to the Advent of Code 2023 problems written both object-oriented with Java and procedurally with Python.
+Solutions for the 2023 Advent of Code challenges, written in both object-oriented Java and procedural Python
