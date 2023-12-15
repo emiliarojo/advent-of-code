@@ -33,7 +33,7 @@ Welcome to my Advent of Code (AoC) repository! This tree will grow each year wit
 
 ## About Advent of Code
 
-Advent of Code is an annual set of Christmas-themed programming challenges that can be solved in any programming language you like. It's a great way to improve your coding skills and have fun during the holiday season!
+Advent of Code is an annual set of Christmas-themed programming challenges that can be solved in any programming language. You can read more about it [here](https://adventofcode.com/about).
 
 ## How to Use This Repository
 
